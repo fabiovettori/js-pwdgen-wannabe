@@ -1,0 +1,28 @@
+/* GENERAL SETTINGS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* MAIN */
+main {
+    background-color: #202030;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #E63462;
+    text-align: center;
+}
+
+main h3:first-of-type {
+    font-size: 54px;
+    font-weight: 500;
+}
+
+main h3:last-of-type {
+    font-size: 32px;
+    font-weight: 300;
+}

@@ -20,9 +20,14 @@ main {
 main h3:first-of-type {
     font-size: 54px;
     font-weight: 500;
+    color: #ffffff;
+}
+
+main div span {
+    display: inline-block;
+    margin-top: 20px;
 }
 
 main h3:last-of-type {
     font-size: 32px;
-    font-weight: 300;
 }

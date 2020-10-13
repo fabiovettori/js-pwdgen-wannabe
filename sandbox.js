@@ -11,3 +11,4 @@ document.getElementById('fullname').innerHTML = 'Hi' + ' ' + name + '!';
 var password = name + surname + color + '20';
 var userPassword = password.toLowerCase();
 document.getElementById('password').innerHTML = userPassword;
+// document.getElementById('password').style.color = color;
